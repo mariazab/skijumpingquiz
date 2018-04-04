@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz - Skoki Narciarskie</string>
+    <string name="header1">Skoki Narciarskie</string>
+    <string name="subhead1">Sprawdź jak dużo wiesz o skokach narciarskich!</string>
+    <string name="rules_head">Zasady</string>
+    <string name="rule1">&#8226; Możesz zdobyć max 12 punktów.</string>
+    <string name="rule2">&#8226; Każde pytanie jest warte 2 punkty.</string>
+    <string name="questions_head">Pytania</string>
+    <string name="question1_text">1. Którzy DWAJ skoczkowie najwięcej razy zdobyli Kryształową Kulę?</string>
+    <string name="question2_text">2. Kto jako pierwszy przekroczył granicę 250 metrów?</string>
+    <string name="question3_text">3. Którzy inni skoczkowie skoczyli ponad 250 m (4 skoczków)?</string>
+    <string name="question4_text1">4. Na koniec sezonu 2014/2015 Severin Freund i Peter Prevc mieli taką samą ilość punktów, ale tylko jeden z nich zdobył Kryształową Kulę, który?</string>
+    <string name="question4_hint">Wpisz odpowiedź...</string>
+    <string name="question4_text2">I ile punktów zdobyli?</string>
+    <string name="question5_text">5. Którzy DWAJ skoczkowie jako jedyni wygrali wszystkie konkursy w jedym cyklu Turnieju Czterech Skoczni?</string>
+    <string name="question6_text">6. Na których Zimowych Igrzyskach Olimpijskich po raz pierwszy odbył się konkurs skoków narciarskich kobiet?</string>
+    <string name="finish_button">Zakończ &amp; sprawdź swój wynik</string>
+    <string name="toast_awesome">Wow! 12 punktów na 12! Naprawdę lubisz skoki narciarskie, co?</string>
+    <string name="toast_beginning">"Zdobyłeś "</string>
+    <string name="toast_great_end">na 12 punktów! Gratulacje!</string>
+    <string name="toast_loser_end">na 12 punktów! Spróbuj ponownie!</string>
+</resources>

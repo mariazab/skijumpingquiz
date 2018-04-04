@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Ski Jumping Quiz</string>
+
+    <!-- Header of the application -->
+    <string name="header1">Ski Jumping</string>
+    <string name="header2">Quiz</string>
+
+    <string name="subhead1">Try your ski jumping knowledge!</string>
+
+    <!-- Rules of the quiz -->
+    <string name="rules_head">Rules</string>
+    <string name="rule1">&#8226; You can get maximum 12 points.</string>
+    <string name="rule2">&#8226; Each question is worth 2 points.</string>
+
+    <!-- Header for questions-->
+    <string name="questions_head">Questions</string>
+
+    <!-- Question number 1 -->
+    <string name="question1_text">1. Which TWO ski jumpers hold the record of the most overall World Cups won?</string>
+    <string name="question1_answer1">Matti Nykänen</string>
+    <string name="question1_answer2">Gregor Schlierenzauer</string>
+    <string name="question1_answer3">Adam Małysz</string>
+    <string name="question1_answer4">Simon Ammann</string>
+    <string name="question1_answer5">Peter Prevc</string>
+
+    <!-- Question number 2 -->
+    <string name="question2_text">2. Who broke the record of 250 meters as the first in the world?</string>
+    <string name="question2_answer1">Anders Fannemel</string>
+    <string name="question2_answer2">Stefan Kraft</string>
+    <string name="question2_answer3">Peter Prevc</string>
+    <string name="question2_answer4">Simon Ammann</string>
+
+
+    <!-- Question number 3 -->
+    <string name="question3_text">3. Which other FOUR ski jumpers jumped over 250m?</string>
+    <string name="question3_answer1">Robert Johansson</string>
+    <string name="question3_answer2">Severin Freund</string>
+    <string name="question3_answer3">Stefan Kraft</string>
+    <string name="question3_answer4">Andreas Stjernen</string>
+    <string name="question3_answer5">Anders Fannemel</string>
+    <string name="question3_answer6">Peter Prevc</string>
+    <string name="question3_answer7">Kamil Stoch</string>
+
+    <!-- Question number 4 -->
+    <string name="question4_text1">4. At the end of season 2014/2015 Severin Freund and Peter Prevc had the same amount of points, but only one of them got the "Crystal Globe", which one? </string>
+    <string name="question4_hint">Type here...</string>
+    <string name="question4_text2">And how much points did they have?</string>
+
+    <!-- Question number 5 -->
+     <string name="question5_text">5. Which ski jumpers are the only TWO that won all the competitions in one edition of Four Hills Tournament?</string>
+    <string name="question5_answer1">Peter Prevc</string>
+    <string name="question5_answer2">Jakub Janda</string>
+    <string name="question5_answer3">Sven Hannawald</string>
+    <string name="question5_answer4">Simon Ammann</string>
+    <string name="question5_answer5">Kamil Stoch</string>
+    <string name="question5_answer6">Adam Małysz</string>
+    <string name="question5_answer7">Thomas Morgenstern</string>
+
+
+    <!-- Question number 6 -->
+    <string name="question6_text">6. In which Olympic Games Ladies Ski Jumping Competition was held for the first time?</string>
+    <string name="question6_answer1">Sochi 2014</string>
+    <string name="question6_answer2">Vancouver 2010</string>
+    <string name="question6_answer3">Turin 2006</string>
+    <string name="question6_answer4">Salt Lake City 2002</string>
+
+    <!-- Finish button -->
+    <string name="finish_button">Finish &amp; get results</string>
+
+    <!-- Toast messages -->
+    <string name="toast_awesome">Wow! 12 out of 12 points!\nYou really like ski jumping, don\'t you?</string>
+    <string name="toast_beginning">You got </string>
+    <string name="toast_great_end">out of 12 points!\nCongrats!</string>
+    <string name="toast_loser_end">out of 12 points!\nTry again!</string>
+</resources>
